@@ -10,6 +10,6 @@ source: https://graphicarts.princeton.edu/wp-content/uploads/sites/158/2013/10/h
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/homar8plena6.jpg"
-full: "/img/homar8plena6.jpg"
+thumbnail: "/img/homar-plena5.jpg"
+full: "/img/homar-plena5.jpg"
 ---
