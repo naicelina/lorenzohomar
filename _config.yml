@@ -20,7 +20,7 @@
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://naicelina.github.io'
-baseurl:          '/lorenzohomar'
+baseurl:          '/lorenzohomar/'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
